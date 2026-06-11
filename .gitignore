@@ -83,3 +83,4 @@ yarn-error.*
 *.tsbuildinfo
 
 # @end expo-cli
+config.bat
